@@ -1,18 +1,26 @@
-## Click on the link [here](https://samgurr.github.io/protocols/2023/02/18/Time-to-git-started.html) for the markdown in html format!
+**Click on the link [here](https://samgurr.github.io/protocols/2023/02/18/Time-to-git-started.html) for the markdown in html format!**
 
 # Time to 'git'!
 
-----
+### *before we 'git' going..*
 
-## before we 'git' going..
+- Install git on your computer [here](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgit-scm.com%2Finstall%2Fwindows&data=05|02|samuel.gurr@oregonstate.edu|d4d7777645d8408b6f0d08de74ccc5f1|ce6d05e13c5e4d6287a84c4a2713c113|0|0|639076619996014391|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D|0|||&sdata=WHxcGZeNBbo6XsfH%2FeabxItUhpZsdF4Cy1xU5GeZX8Q%3D&reserved=0)
 
-* start a git account
+- Sign up on github [here](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2F&data=05|02|samuel.gurr@oregonstate.edu|d4d7777645d8408b6f0d08de74ccc5f1|ce6d05e13c5e4d6287a84c4a2713c113|0|0|639076619996050849|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D|0|||&sdata=KyQeYek5F1X%2FKqZcHtXuM7740gFuDDUBY6RZtcpuAq4%3D&reserved=0) 
 
-* download a user interface to interact with github from your command line
+- Read '1. Automated Version Control' [here](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fswcarpentry.github.io%2Fgit-novice%2F01-basics.html&data=05|02|samuel.gurr@oregonstate.edu|d4d7777645d8408b6f0d08de74ccc5f1|ce6d05e13c5e4d6287a84c4a2713c113|0|0|639076619996079772|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D|0|||&sdata=w97mq3MB5bPdzsJv%2FTMlGcfPi%2B%2BOctZeYoDuUFXrKrQ%3D&reserved=0)
 
-	- git
+ **Topics for this workshop**
 
-	- github user interface
+- Learn basic linux commands in the git bash command line [here](https://github.com/GurrLab/github_workshop/blob/main/sessions/1_Giting_started/1A_linux_commands/1A_basic_linux_commands.md)
+
+- Create a repository or link an existing directory in your computer to git
+
+- Learn basic commands for version control *pull-add-commit-push-pull* cycle, some of the guide [here](https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FSamGurr%2FRClub%2Fblob%2Fmain%2Fsessions%2F3_3_2023_Git_workshop%2F20230303_time_to_git_started.md&data=05|02|samuel.gurr@oregonstate.edu|d4d7777645d8408b6f0d08de74ccc5f1|ce6d05e13c5e4d6287a84c4a2713c113|0|0|639076619996125603|Unknown|TWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D|0|||&sdata=kfDxp36Jb9qpv%2FY%2BnHETYkU3atythEzxaGMyI%2BZtQbU%3D&reserved=0)
+
+- Adding collaborators to github repositories 
+
+- Discuss best practices to avoid merge conflicts with team members 
 
 * email your github account ID to samuel_gurr@noaa.gov to be added as a collaborator to the repository 'RClub' and accept the invitation to be a collaborator (you will get an email notification)
 
