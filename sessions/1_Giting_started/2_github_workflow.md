@@ -15,7 +15,7 @@ ___
 * this enables me to easily grab your username to make you a collaborator for the workshop
 * ..and following is fun
 
-**3)** Learn basic bash commands in the git bash command line [here](https://github.com/GurrLab/github_workshop/blob/main/sessions/1_Giting_started/1A_linux_commands/1A_basic_linux_commands.md)
+**3)** Learn basic bash commands in the git bash command line [here](https://github.com/GurrLab/github_workshop/blob/main/sessions/1_Giting_started/1_basic_linux_commands.md)
 
 # '*Git*' ready...
 
@@ -70,7 +70,7 @@ steps supplemented with color-coded <span style="color:red">bash</span> and <spa
 
 **1.1.**) Open git on your computer
 
-**1.2.)** Use <span style="color:red">bash</span> commands ([tutorial](https://github.com/GurrLab/github_workshop/blob/main/sessions/1_Giting_started/1A_linux_commands/1A_basic_linux_commands.md)) to navigate to a directory where you want the 'github_workshop' repository to live. You are now ready to <span style="color:green">git</span> the repository. Skip to 'c.' if you completed the bash tutorial
+**1.2.)** Use <span style="color:red">bash</span> commands ([tutorial](https://github.com/GurrLab/github_workshop/blob/main/sessions/1_Giting_started/1_basic_linux_commands.md)) to navigate to a directory where you want the 'github_workshop' repository to live. You are now ready to <span style="color:green">git</span> the repository. Skip to 'c.' if you completed the bash tutorial
 
 **Note**: the 'github_workshop' repository is already active and on github. You can establish a new repository from command line (example tutorial [here](https://kbroman.org/github_tutorial/pages/init.html)) though we will not do this today
 
@@ -242,4 +242,4 @@ git push origin main
 
 # Celebrate, you 'git' it!
 
-**your changes to teamwork are now integrated in the main repository.** [Check it out on github](https://github.com/SamGurr/RClub)
+**your changes to teamwork are now integrated in the main repository.** [Check it out on github](https://github.com/GurrLab/github_workshop/tree/main/sessions/1_Giting_started/output)
