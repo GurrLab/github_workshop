@@ -178,7 +178,7 @@ vim LastnameYYYY.md
   * click with your cursor in the empty space, add the text below to make an **shortcut** as an **'alias'** to **notepad.exe** which is a default text editor on our PCs
 
     ```
-    alias note='C:/Windows/System32/notepad.exe'
+    alias note='C:/Windows/System32/notepad.exe' # PC USERS ONLY 
     ```
 
   * we now have a shortcut to use in terminal/git to open notepad as opposed to the clunky nano and vims!
