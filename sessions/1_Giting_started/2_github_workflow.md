@@ -156,8 +156,9 @@ nano LastnameYYYY.md
 vim LastnameYYYY.md
 ```
 
-* **lets call an easier user interface to work in shall we!**
+Note: I recommend editing text files in other programs that are much more user friendly such as notepad, notepad++, sublime, typora, etc. These user-friendly interfaces are especially useful for writing custom markdown files like this one!
 
+* **lets call an easier user interface to work in shall we!**
   * below we will navigate to our home directory and edit our .bashrc file.  This file contains editable configurations for the use to interact with terminal
 
 
@@ -177,15 +178,17 @@ vim LastnameYYYY.md
 
   * click with your cursor in the empty space, add the text below to make an **shortcut** as an **'alias'** to **notepad.exe** which is a default text editor on our PCs
 
+
+    * Note: the alias text below is catered to PC users, if you are using mac you can route to the base app TextEdit for example. Ask google and stackoverflow for the correct system route to TextEdit 
+
+
     ```
     alias note='C:/Windows/System32/notepad.exe' # PC USERS ONLY 
     ```
 
-  * we now have a shortcut to use in terminal/git to open notepad as opposed to the clunky nano and vims!
+  * we now have a shortcut to use in terminal or git to open notepad as opposed to the clunky nano and vims!
 
-  * close git and reopen to integrate this changes
-
-  * type note to open notepad
+  * type note to open notepad, example below starts a markdown file (.md) called LastnameYYYY. For example, "note Gurr2026.md"
 
 
 ```
